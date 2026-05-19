@@ -1,0 +1,15 @@
+<question>
+    <que>this is the question</que>
+    <option>1,2,3,4</option>
+    <answer>1</answer>
+</question>
+<question>
+    <que>this is the question</que>
+    <option>1,2,3,4</option>
+    <answer>2</answer>
+</question>
+<question>
+    <que>this is the question</que>
+    <option>1,2,3,4</option>
+    <answer>3</answer>
+</question>
