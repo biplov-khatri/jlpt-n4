@@ -2,14 +2,17 @@
     <que>this is the question</que>
     <option>1,2,3,4</option>
     <answer>1</answer>
+    <remarks> test </remarks>
 </question>
 <question>
     <que>this is the question</que>
     <option>1,2,3,4</option>
     <answer>2</answer>
+      <remarks> test </remarks>
 </question>
 <question>
     <que>this is the question</que>
     <option>1,2,3,4</option>
     <answer>3</answer>
+      <remarks> test </remarks>
 </question>
