@@ -1,0 +1,11 @@
+<question>
+    <que>この人は何をしていますか？</que>
+    <options>
+        <option id="1">食べています</option>
+        <option id="2">飲んでいます</option>
+        <option id="3">寝ています</option>
+        <option id="4">歩いています</option>
+    </options>
+    <answer>1</answer>
+    <remarks>This tests the te-form of verbs in present progressive.</remarks>
+</question>
