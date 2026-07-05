@@ -1,3 +1,4 @@
+2012-12
 //もんだい1→のことばはひらがなでどうかきますか。1・2・3・4からいちばんいいものをひとつえらんでください。
 
 <questions>
@@ -206,6 +207,41 @@
     <answer>2</answer>
     <remarks>Tanaka was praised by the teacher. (ほめられました = was praised)</remarks>
 </question>
+//もんだい5つぎのことばのつかいかたでいちばんいいものを1・2・3・4からひとつえらんでください。
 
+<question>
+    <que>るす</que>
+    <option>さいきんいそがしくて、しごとが(るす)になりません。,あのデパートはきょうは(るす)です。,このひこうきには(るす)のせきがありません。,ともだちのいえに行ったら(るす)でした。</option>
+    <answer>4</answer>
+    <remarks>When I went to my friend's house, they were not home. (るす = absent/not home)</remarks>
+</question>
+
+<question>
+    <que>しんせつ</que>
+    <option>このりょうりはからだにどても(しんせつ)ですよ。,コンビニは何でも買えるのでとても(しんせつ)です。,このびょういんのおいしゃさんはとても(しんせつ)ですよ。,わたしの母はにわの花にどても(しんせつ)です。</option>
+    <answer>3</answer>
+    <remarks>The doctor at this hospital is very kind. (しんせつ = kind / friendly)</remarks>
+</question>
+
+<question>
+    <que>にがい</que>
+    <option>かぜをひいたので、こえが(にがい)です。,くらいみちを一人であるくのは(にがい)です。,にもつがおもかったので、うでが(にがい)です。,このくすりはとても(にがい)です。</option>
+    <answer>4</answer>
+    <remarks>This medicine is very bitter. (にがい = bitter taste)</remarks>
+</question>
+
+<question>
+    <que>わる</que>
+    <option>おさらをおとして(わって)しまいました。,しんぶんを(わって)、かばんに入れました。,ようふくを(わって)、母におこられました。,このジャムを三本のびんに(わって)ください。</option>
+    <answer>1</answer>
+    <remarks>I dropped the plate and broke it. (わる = to break)</remarks>
+</question>
+
+<question>
+    <que>ちこく</que>
+    <option>あのとけいはちょっと(ちこく)しています。,じゆぎょうに(ちこく)してすみません。,10時のでんしゃに(ちこく)してしまいました。,れんらくが(ちこく)してすみません。</option>
+    <answer>2</answer>
+    <remarks>Sorry for being late to class. (ちこく = being late / tardiness)</remarks>
+</question>
 </questions>
  
