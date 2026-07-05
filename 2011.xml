@@ -1,11 +1,68 @@
+//もんだい1→のことばはひらがなでどうかきますか。1・2・3・4からいちばんいいものをひとつえらんでください。
+
+<questions>
+
 <question>
-    <que>この人は何をしていますか？</que>
-    <options>
-        <option id="1">食べています</option>
-        <option id="2">飲んでいます</option>
-        <option id="3">寝ています</option>
-        <option id="4">歩いています</option>
-    </options>
+    <que>くつに（石）が入っていました。</que>
+    <option>いし,すな,くさ,えだ</option>
     <answer>1</answer>
-    <remarks>This tests the te-form of verbs in present progressive.</remarks>
+    <remarks>Stone was in the shoe. (いし = stone)</remarks>
 </question>
+
+<question>
+    <que>にほんでいろいろな（経験）をしました。</que>
+    <option>けいけん,けいげん,けけん,けげん</option>
+    <answer>1</answer>
+    <remarks>Experienced many things in Japan. (経験 = experience)</remarks>
+</question>
+
+<question>
+    <que>（店員）にトイレはどこにあるか聞きました。</que>
+    <option>てにん,てんにん,ていん,てんいん</option>
+    <answer>4</answer>
+    <remarks>Asked the store clerk where the toilet is. (店員 = store staff)</remarks>
+</question>
+
+<question>
+    <que>きょうは、（食堂）がこんでいました。</que>
+    <option>しょくとう,しょくどう,しょくど,しゅくとう</option>
+    <answer>2</answer>
+    <remarks>The cafeteria was crowded today. (食堂 = cafeteria/dining hall)</remarks>
+</question>
+
+<question>
+    <que>この、まどから（港）が見えます。</que>
+    <option>うみ,みなと,みずうみ,いけ</option>
+    <answer>2</answer>
+    <remarks>You can see the harbor from this window. (港 = harbor/port)</remarks>
+</question>
+
+<question>
+    <que>この（小説）はおもしろかったです。</que>
+    <option>しょせっ,しょぜつ,しょうせつ,しょうぜつ</option>
+    <answer>3</answer>
+    <remarks>This novel was interesting. (小説 = novel)</remarks>
+</question>
+
+<question>
+    <que>まいばん（日記）を書いています。</que>
+    <option>にっき,にちき,につきい,にちきい</option>
+    <answer>1</answer>
+    <remarks>I write a diary every night. (日記 = diary)</remarks>
+</question>
+
+<question>
+    <que>（夕方）、雨がふりました。</que>
+    <option>ゆうほう,ゆうがた,ゆほう,ゆがた</option>
+    <answer>2</answer>
+    <remarks>It rained in the evening. (夕方 = evening)</remarks>
+</question>
+
+<question>
+    <que>もうすぐ（秋）ですね。</que>
+    <option>ふゆ,なつ,はる,あき</option>
+    <answer>4</answer>
+    <remarks>Autumn is coming soon. (秋 = autumn/fall)</remarks>
+</question>
+</questions>
+ 
