@@ -1,7 +1,7 @@
 //もんだい1→のことばはひらがなでどうかきますか。1・2・3・4からいちばんいいものをひとつえらんでください。
 
 <questions>
-
+   //もんだい1→のことばはひらがなでどうかきますか。1・2・3・4からいちばんいいものをひとつえらんでください。
 <question>
     <que>くつに（石）が入っていました。</que>
     <option>いし,すな,くさ,えだ</option>
@@ -64,5 +64,148 @@
     <answer>4</answer>
     <remarks>Autumn is coming soon. (秋 = autumn/fall)</remarks>
 </question>
+//もんだい2--( )のことばはどうかきますか。1・2・3・4からいちばんいいものをひとつえらんでください。
+<question>
+    <que>すずきさんは (あおい)シャツをきています。</que>
+    <option>青い,黒い,赤い,白い</option>
+    <answer>1</answer>
+    <remarks>Suzuki is wearing a blue shirt. (あおい = blue)</remarks>
+</question>
+
+<question>
+    <que>かいぎの(ばしょ)をおしえてください。</que>
+    <option>揚所,場所,揚所,場所</option>
+    <answer>2</answer>
+    <remarks>Please tell me the place of the meeting. (場所 = place/location)</remarks>
+</question>
+
+<question>
+    <que>わたしのいえはえきから(あるいて)5分です。</que>
+    <option>走て,走いて,歩て,歩いて</option>
+    <answer>4</answer>
+    <remarks>My house is 5 minutes walk from the station. (歩いて = on foot)</remarks>
+</question>
+
+<question>
+    <que>ちかてつができて(べんり)になりました。</que>
+    <option>便宜,便理,便立,便利</option>
+    <answer>4</answer>
+    <remarks>It became convenient after the subway was built. (便利 = convenient)</remarks>
+</question>
+
+<question>
+    <que>とても(ねすかった)ので、コーヒーを飲みました。</que>
+    <option>睡むかった,睡かった,眠むかった,眠かった</option>
+    <answer>4</answer>
+    <remarks>I was very sleepy, so I drank coffee. (眠かった = was sleepy)</remarks>
+</question>
+
+<question>
+    <que>きょうは ゆき が ふっています。</que>
+    <option>雪,電,雷,雲</option>
+    <answer>1</answer>
+    <remarks>It's snowing today. (雪 = snow)</remarks>
+</question>
+//もんだい3（ ）になにをいれますか。1・2・3・4からいちばんいいものをひとつえらんでください。
+
+<question>
+    <que>けさせんたくしたふくがまだ（ ）いません。</que>
+    <option>ひえて,なおって,ぬれて,かわいて</option>
+    <answer>4</answer>
+    <remarks>The washed clothes are not dry yet. (かわいて = dry)</remarks>
+</question>
+
+<question>
+    <que>スミスさんは いつも（ ）べんきょうしています。</que>
+    <option>だいじに,たいせつに,ねっしんに,まっすぐに</option>
+    <answer>3</answer>
+    <remarks>Smith always studies enthusiastically. (ねっしんに = eagerly)</remarks>
+</question>
+
+<question>
+    <que>わたしはにほんのまんがに（ ）があります。</que>
+    <option>きぶん,きょうみ,こころ,しゅみ</option>
+    <answer>2</answer>
+    <remarks>I am interested in Japanese manga. (きょうみ = interest)</remarks>
+</question>
+
+<question>
+    <que>わたしは テニスの（ ）をよくしりません。</que>
+    <option>アイデイア,ルール,あんない,せつめい</option>
+    <answer>2</answer>
+    <remarks>I don't know much about tennis rules. (ルール = rules)</remarks>
+</question>
+
+<question>
+    <que>りょこうのにもつはもう（ ）できましたか。</que>
+    <option>やくそく,リよう,せわ,ようい</option>
+    <answer>4</answer>
+    <remarks>Are your travel bags already prepared? (ようい = preparation)</remarks>
+</question>
+
+<question>
+    <que>おとうとと（ ）して母にあげるプレゼントをえらびました。</que>
+    <option>さんせい,あいさつ,そうだん,へんじ</option>
+    <answer>3</answer>
+    <remarks>I discussed with my younger brother and chose a gift for mom. (そうだん = consultation)</remarks>
+</question>
+
+<question>
+    <que>このにもつを あそこに（ ）ください。</que>
+    <option>はこんで,つたえて,ひろって,むかえて</option>
+    <answer>1</answer>
+    <remarks>Please carry this luggage over there. (はこんで = carry)</remarks>
+</question>
+
+<question>
+    <que>このきかいはつかいかたをまちがえるととても（ ）です</que>
+    <option>げっこう,きけん,じゆう,あんぜん</option>
+    <answer>2</answer>
+    <remarks>If you use this machine wrong, it's very dangerous. (きけん = dangerous)</remarks>
+</question>
+
+<question>
+    <que>入口の前には車を（ ）ください。</que>
+    <option>やめないで,しめないで,とめないで,きめないで</option>
+    <answer>3</answer>
+    <remarks>Please do not park your car in front of the entrance. (とめないで = don't park)</remarks>
+</question>
+//もんだい4 __のぶんとだいたいおなじいみのぶんがあります。1・2・3・4からいちばんいいものをひとつえらんでください
+
+<question>
+    <que>バスがしゅっぱつしました。</que>
+    <option>バスがとまりました。,バスがつきました。,バスが でました。,バスが まがりました。</option>
+    <answer>3</answer>
+    <remarks>The bus departed. (しゅっぱつ = departure)</remarks>
+</question>
+
+<question>
+    <que>もっとていねいにかいてください。</que>
+    <option>もっとおおきく かいてください。,もっときれいにかいてください。,もっとふとくかいてください。,もっとかんたんにかいてください。</option>
+    <answer>2</answer>
+    <remarks>Please write more neatly/politely. (ていねい = neatly)</remarks>
+</question>
+
+<question>
+    <que>あにはえがうまいです。</que>
+    <option>あにはえが じょうずです。,あにはえがきらいです。,あにはえがへたです。,あにはえがすきです。</option>
+    <answer>1</answer>
+    <remarks>My older brother is good at drawing. (うまい = skillful)</remarks>
+</question>
+
+<question>
+    <que>きのうはねぼうしました。</que>
+    <option>きのうはねるのがおそくなってしまいました。,きのうははやくねてしまいました。,きのうはおきるのがおそくなってしまいました。,きのうははやくおきてしまいました。</option>
+    <answer>3</answer>
+    <remarks>I overslept yesterday. (ねぼう = oversleep)</remarks>
+</question>
+
+<question>
+    <que>たなかさんは先生にほめられました。</que>
+    <option>先生はたなかさんに「気をつけてね」と言いました。,先生はたなかさんに「とてもよかったですよ」と言いました。,先生はたなかさんに「ちょっと休みましょう」と言いました。,先生はたなかさんに「たいへんですね」と言いました。</option>
+    <answer>2</answer>
+    <remarks>Tanaka was praised by the teacher. (ほめられました = was praised)</remarks>
+</question>
+
 </questions>
  
