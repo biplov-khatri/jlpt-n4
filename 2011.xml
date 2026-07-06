@@ -1,4 +1,5 @@
-2012-12
+//2012-12
+//言 語 知 識 （ 文 字 ・ 語 彙 ・ 文 法 ） ・ 読 解
 //もんだい1→のことばはひらがなでどうかきますか。1・2・3・4からいちばんいいものをひとつえらんでください。
 
 <questions>
@@ -243,5 +244,189 @@
     <answer>2</answer>
     <remarks>Sorry for being late to class. (ちこく = being late / tardiness)</remarks>
 </question>
+//言 語 知 識 （ 文 法 ） ・ 読 解
+//もんだい1（ ）に何を入れますか。1・2・3・4からいちばんいいものを一つえらんでください。
+<question>
+    <que>わたしの父は中国語も英語（ ）話せます。</que>
+    <option>を,で,も,が</option>
+    <answer>3</answer>
+    <remarks>My father can speak Chinese and English too. (も = also/too)</remarks>
+</question>
+
+<question>
+    <que>これはわたしが米（ ）作ったパンです。</que>
+    <option>に,の,や,で</option>
+    <answer>4</answer>
+    <remarks>This is bread that I made with rice. (で = with / using)</remarks>
+</question>
+
+<question>
+    <que>男の子の顔は父親より母親（ ）にるという話を聞いた。</que>
+    <option>に,へ,も,を</option>
+    <answer>1</answer>
+    <remarks>I heard that a boy's face resembles his mother more than his father. (に = to / like)</remarks>
+</question>
+<question>
+    <que>妹はおしゃべりだ。静かなのは、食事のとき（ ）だ。</que>
+    <option>しか,だけ,は,の</option>
+    <answer>2</answer>
+    <remarks>My sister is talkative. She is quiet only during meals. (だけ = only)</remarks>
+</question>
+
+<question>
+    <que>A「誕生日に田中さんから何をもらったんですか。」 B「田中さん（ ）腕時計をもらいました。」</que>
+    <option>からが,からに,からで,からは</option>
+    <answer>4</answer>
+    <remarks>I received a watch from Tanaka. (からは = from [person])</remarks>
+</question>
+
+<question>
+    <que>（会社で）A「すみません、山田さんはどこですか。」B「山田さんは、会議中ですが、会議は 11時半（ ） 終わると思いますよ。」</que>
+    <option>までは,までには,までも,までにも</option>
+    <answer>2</answer>
+    <remarks>The meeting should finish by 11:30. (までには = by)</remarks>
+</question>
+
+<question>
+    <que>学生「先生、この言葉は（ ）意味ですか。」先生「『やさしい』という意味です。」</que>
+    <option>どうやって,どのぐらい,どういう,どう</option>
+    <answer>3</answer>
+    <remarks>What does this word mean? (どういう = what kind of)</remarks>
+</question>
+
+<question>
+    <que>チャン「古川さん、このじゅぎょうのレポート、おわりましたか。」古川「はい、一週間かかりましたが、きのうの夜、（ ）終わりました。」</que>
+    <option>やっと,ずっと,もっと,きっと</option>
+    <answer>1</answer>
+    <remarks>I finally finished it last night. (やっと = finally)</remarks>
+</question>
+
+<question>
+    <que>A「あしたいっしょにドライブに行きませんか。」B「（ ）、ごめんなさい、あしたはアルバイトがあるんです。」</que>
+    <option>行きたいから,行きたいけれど,行きたいし,行きたくて</option>
+    <answer>2</answer>
+    <remarks>I'd like to go, but I have a part-time job tomorrow. (けれど = but)</remarks>
+</question>
+
+<question>
+    <que>子ども「ねえ、ゲームをしてもいい？」母親「しゅくだいを（ ）あとでね。」</que>
+    <option>していた,している</option>
+    <answer>2</answer>
+    <remarks>After you finish your homework. (している = after doing)</remarks>
+</question>
+
+<question>
+    <que>このすいかは（ ）すぎて、れいぞうこに入らない。</que>
+    <option>大き,大きい,する,大きく</option>
+    <answer>4</answer>
+    <remarks>This watermelon is too big to fit in the fridge. (大きく = too big)</remarks>
+</question>
+
+<question>
+    <que>A「誕生日おめでとうございます。これ、プレゼントです。どうぞ。」B「ありがとうございます。大切に（ ）。」</que>
+    <option>します,います,なります,あります</option>
+    <answer>1</answer>
+    <remarks>I'll take good care of it. (大切にします = treasure it)</remarks>
+</question>
+
+<question>
+    <que>A「きのうはひっこしを（ ）、どうもありがとうございました。」B「いいえ。どういたしまして。」</que>
+    <option>手伝って,手伝ったので,手伝ってくれて,手伝ったから</option>
+    <answer>3</answer>
+    <remarks>Thank you for helping me move yesterday. (手伝ってくれて = thanks for helping)</remarks>
+</question>
+
+<question>
+    <que>今日、わたしはえんぴつと消しゴムを忘れたので、となりの人に貸して（ ）。</que>
+    <option>やりました,あげました,くれました,もらいました</option>
+    <answer>4</answer>
+    <remarks>My neighbor lent me a pencil and eraser. (もらいました = received the favor)</remarks>
+</question>
+
+<question>
+    <que>わたしの本だなには（ ）読んでいないまんががたくさんあります。</que>
+    <option>買うあいだ,買ったまま,買いそうで,買っている</option>
+    <answer>2</answer>
+    <remarks>There are many manga on my bookshelf that I bought but haven't read yet. (買ったまま = left as is)</remarks>
+</question>
+もんだい 2 ( ★)に入るものはどれですか。1・2・3・4からいちばんいいものを一つえらんでください
+<question>
+    <que>A「コンサートにはもう間に合わないですね。」 B「今すぐ -( )-( )(★)-( )行こう。」</que>
+    <option>タクシーに,タクシーで,間に合うかもしれないから,乗れば</option>
+    <answer>3</answer>
+    <remarks>今すぐ タクシーに 乗れば 間に合うかもしれないから タクシーで行こう。 (If we take a taxi now, we might still make it, so let's go.)</remarks>
+</question>
+<question>
+    <que>山田「田中さん、これから食事でもどうですか。」田中「すみません。ちょうど -( )-( )(★)-( )です。」</que>
+    <option>なん,ところ,食べた,今</option>
+    <answer>2</answer>
+    <remarks>ちょうど 今 食べた ところ なんです。 (I just ate.)</remarks>
+</question>
+
+<question>
+    <que>A「あしたは大事なおきゃくさまに会うから、-( )-( )(★)-( )いけませんよ。」B「わかりました。あしたは、新しいくつをはいて来ます。」</que>
+    <option>くつ,は,そんな,で</option>
+    <answer>4</answer>
+    <remarks>そんな くつ で はいけませんよ。 (You can't go in those shoes.)</remarks>
+</question>
+
+<question>
+    <que>今日は、風が -( )-( )(★)-( )出かけたくない。</que>
+    <option>し,だから,寒そう,強い</option>
+    <answer>3</answer>
+    <remarks>風が 強い から 寒そう だから 出かけたくない。 (The wind is strong, so it looks cold and I don't want to go out.)</remarks>
+</question>
+
+<question>
+    <que>田中「山田さん。東京の大学に行くことを、もうご両親に話しましたか。」山田「いいえ。でも、もし両親に　-( )-( )(★)-( )　つもりです。」</que>
+    <option>反対,する,東京で勉強,されても</option>
+    <answer>3</answer>
+    <remarks>もし両親に 反対 されても 東京で勉強 する つもりです。 (Even if my parents oppose it, I plan to study in Tokyo.)</remarks>
+</question>
+
+//もんだい321/から、25に何を入れますか。文章の意味を考えて、1・2・3・4からいちばんいいものを一つえらんでください。
+//Paragraphs 21 to 25: Choose the best option from 1, 2, 3, or 4 based on the meaning of the sentences.
+//下の文章は「家族」についての作文です。
+// わたしの家には「ポチ」という名前の犬がいます。一か月前に父がもらってきました。わたしたちはポチを家の中で 21( )。
+//ポチが好きなところはテレビの前のソファーです。ポチはとてもかわいいのですが、何でもかむので少しこまっています。先週は本当にこまりました。ポチが父のけいたいでんわを22( )からです。
+//わたしは兄弟がいないので、ずっとさびしかったです。しかし、ポチをかってからは、23( )。わたしたちはいつもいっしょです。
+//ポチはわたしが家を出るとき、いつもげんかんまで出てきます。24( )、元気がないときは、そばに来てくれます。ポチ 25 ( )わたしたちの大切な家族の一員です
+<question>
+    <que>21</que>
+    <option>からでしょう,かっています,かっていますか,かっていました</option>
+    <answer>2</answer>
+    <remarks>かっています (We keep / are raising Pochi inside the house)</remarks>
+</question>
+
+<question>
+    <que>22</que>
+    <option>こわしたところだ,こわされている,こわしてしまった,こわされた</option>
+    <answer>3</answer>
+    <remarks>こわしてしまった (Pochi broke/chewed up the phone)</remarks>
+</question>
+
+<question>
+    <que>23</que>
+    <option>さびしくなります,さびしくなくなりました,さびしくなるかもしれません,さびしくなくなったそうです</option>
+    <answer>2</answer>
+    <remarks>さびしくなくなりました (I became no longer lonely)</remarks>
+</question>
+
+<question>
+    <que>24</que>
+    <option>それに,たとえば,だから,それなら</option>
+    <answer>1</answer>
+    <remarks>それに (Moreover / Besides)</remarks>
+</question>
+
+<question>
+    <que>25</que>
+    <option>が,で,を,は</option>
+    <answer>4</answer>
+    <remarks>は (Pochi is an important family member)</remarks>
+</question>
+
+//last edited: 2024-06-05 15:30:00
 </questions>
+
  
