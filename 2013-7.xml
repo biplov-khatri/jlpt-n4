@@ -1,0 +1,187 @@
+
+<questions>
+<!-- 言語知識（文字・語彙・文法）・読解 -->
+<!-- もんだい1._のことばはひらがなでどうかきますか。1・2・3・4からいちばんいいものをひとつえらんでください。 -->
+ <question>
+        <que>ちょっと(味)がへんですよ。</que>
+        <option>こえ,あじ,おと,におい</option>
+        <answer>2</answer>
+        <remarks>taste / flavor</remarks>
+    </question>
+
+    <question>
+        <que>このビルは(世界)でいちばん高いです。</que>
+        <option>せいがい,せいかい,せがい,せかい</option>
+        <answer>4</answer>
+        <remarks>world</remarks>
+    </question>
+
+    <question>
+        <que>それは たなかさんが、(考えて)くれました。</que>
+        <option>かぞえて,こたえて,かんがえて,つたえて</option>
+        <answer>3</answer>
+        <remarks>thought of / considered</remarks>
+    </question>
+
+    <question>
+        <que>じしょが買いたかったのに、お金が(足りません)でした。</que>
+        <option>たりません,あしりません,たしりません,ありません</option>
+        <answer>1</answer>
+        <remarks>not enough</remarks>
+    </question>
+
+    <question>
+        <que>わたしのかぞくはみんな(体)がじょうぶです。</que>
+        <option>かたら,からた,かだら,からだ</option>
+        <answer>4</answer>
+        <remarks>body / health</remarks>
+    </question>
+
+    <question>
+        <que>(今度)の日よう日にきこくします。</que>
+        <option>こんどう,こんど,こんと,こんとう</option>
+        <answer>2</answer>
+        <remarks>this time / next time</remarks>
+    </question>
+
+    <question>
+        <que>あしたの(営業)はあさ9時からです。</que>
+        <option>じゅぎょう,えいきょう,えいぎょう,じゅきょう</option>
+        <answer>3</answer>
+        <remarks>business hours</remarks>
+    </question>
+
+    <question>
+        <que>ずっとまどから (雲) を見ていました。</que>
+        <option>くも,ほし,つき,そら</option>
+        <answer>1</answer>
+        <remarks>clouds</remarks>
+    </question>
+
+    <question>
+        <que>まいあさ(近所)のこうえんでジョギングをしています。</que>
+        <option>さんじょ,ちかじょ,きんじょう,ちかじょう</option>
+        <answer>3</answer>
+        <remarks>neighborhood</remarks>
+    </question>
+
+    <!-- もんだい2(    )のことははどうかきますか。1・2・3・4からいちばんいいものをひとつえらんでください。 -->
+
+    <question>
+        <que>この (くすり) はいくらですか。</que>
+        <option>果,楽,菓,薬</option>
+        <answer>4</answer>
+        <remarks>medicine</remarks>
+    </question>
+
+    <question>
+        <que>きのうは9時に(おきました)。</que>
+        <option>赴きました,難きました,起きました,甦きました</option>
+        <answer>3</answer>
+        <remarks>woke up</remarks>
+    </question>
+
+    <question>
+        <que>(だんせい)のおてあらいはあちらです。</que>
+        <option>男姓,女性,男性,女姓</option>
+        <answer>3</answer>
+        <remarks>men / male</remarks>
+    </question>
+
+    <question>
+        <que>このスイッチを(おせば)、電気がつきます。</que>
+        <option>伸せば,挿せば,押せば,坤せば</option>
+        <answer>3</answer>
+        <remarks>push / press</remarks>
+    </question>
+
+    <question>
+        <que>国のりょうしんににもつを(おくりました)。</que>
+        <option>込りました,返りました,速りました,送りました</option>
+        <answer>4</answer>
+        <remarks>sent</remarks>
+    </question>
+
+    <question>
+        <que>あには車の(うんてん)ができます。</que>
+        <option>運転,運轻,速転,連軽</option>
+        <answer>1</answer>
+        <remarks>driving</remarks>
+    </question>
+
+    <!-- もんだい3（     ）に なにをいれますか。1・2・3・4からいちばんいいものをひとつえらんでください。-->
+
+    <question>
+        <que>とても行きたかったのに、りょこうがちゅうしになって、（     ）です。</que>
+        <option>ざんねん,ふべん,だめ,しんぱい</option>
+        <answer>1</answer>
+        <remarks>disappointed / too bad</remarks>
+    </question>
+
+    <question>
+        <que>なくしたかぎを（     ）けど、どこにもないんです。</que>
+        <option>しらべた,さがした,みつけた,あつめた</option>
+        <answer>2</answer>
+        <remarks>looked for / searched</remarks>
+    </question>
+
+    <question>
+        <que>スポーツのあとで、シャワーをあびるのは（     ）がいいです。</que>
+        <option>いくあい,こころ,きもち,げんき</option>
+        <answer>3</answer>
+        <remarks>feels good / refreshing</remarks>
+    </question>
+
+    <question>
+        <que>日本へりょうこうに行ったとき、いろいろな（   ）をしました。</que>
+        <option>けいけん,おもいで,おみやげ,きょうみ</option>
+        <answer>1</answer>
+        <remarks>experiences</remarks>
+    </question>
+
+    <question>
+        <que>雨がふっているので、さんぼに行くのは（  ）。</que>
+        <option>とじました,すてました,しめました,やめました</option>
+        <answer>4</answer>
+        <remarks>gave up / quit</remarks>
+    </question>
+
+    <question>
+        <que>にもつが多いので、やまださんがひっこしを（   ）くれました。</que>
+        <option>はこんで,てつだって,かたづけて,つつんで</option>
+        <answer>2</answer>
+        <remarks>helped</remarks>
+    </question>
+
+    <question>
+        <que>もりさんに、先週学校に来なかった（   ）を聞きました。</que>
+        <option>れんらく,りゆう,いけん,そうだん</option>
+        <answer>2</answer>
+        <remarks>reason</remarks>
+    </question>
+
+    <question>
+        <que>どうぞ（    )ないで、たくさん食べてください。</que>
+        <option>しつれい,えんりょ,ちゅうい,はんたい</option>
+        <answer>2</answer>
+        <remarks>don't hold back / don't be reserved</remarks>
+    </question>
+
+    <question>
+        <que>えさをやったり、さんぽにつれていったり、毎日犬の（   ）をしています。</que>
+        <option>せわ,うんどう,ようい,しゅうかん</option>
+        <answer>1</answer>
+        <remarks>care / looking after</remarks>
+    </question>
+
+    <question>
+        <que>ねつがあるので、びょういんに（   ）から会社に行きます。</que>
+        <option>もどって,よって,まがって,かよって</option>
+        <answer>2</answer>
+        <remarks>stop by / drop by</remarks>
+    </question>
+
+
+
+    
+</questions>

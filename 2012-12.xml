@@ -1,24 +1,555 @@
+<!-- 2012-12 -->
+<!-- 言 語 知 識 （ 文 字 ・ 語 彙 ・ 文 法 ） ・ 読 解 -->
+<!-- もんだい1→のことばはひらがなでどうかきますか。1・2・3・4からいちばんいいものをひとつえらんでください。 -->
+
 <questions>
+<question>
+    <que>くつに（石）が入っていました。</que>
+    <option>いし,すな,くさ,えだ</option>
+    <answer>1</answer>
+    <remarks>Stone was in the shoe. (いし = stone)</remarks>
+</question>
+
+<question>
+    <que>にほんでいろいろな（経験）をしました。</que>
+    <option>けいけん,けいげん,けけん,けげん</option>
+    <answer>1</answer>
+    <remarks>Experienced many things in Japan. (経験 = experience)</remarks>
+</question>
+
+<question>
+    <que>（店員）にトイレはどこにあるか聞きました。</que>
+    <option>てにん,てんにん,ていん,てんいん</option>
+    <answer>4</answer>
+    <remarks>Asked the store clerk where the toilet is. (店員 = store staff)</remarks>
+</question>
+
+<question>
+    <que>きょうは、（食堂）がこんでいました。</que>
+    <option>しょくとう,しょくどう,しょくど,しゅくとう</option>
+    <answer>2</answer>
+    <remarks>The cafeteria was crowded today. (食堂 = cafeteria/dining hall)</remarks>
+</question>
+
+<question>
+    <que>この、まどから（港）が見えます。</que>
+    <option>うみ,みなと,みずうみ,いけ</option>
+    <answer>2</answer>
+    <remarks>You can see the harbor from this window. (港 = harbor/port)</remarks>
+</question>
+
+<question>
+    <que>この（小説）はおもしろかったです。</que>
+    <option>しょせっ,しょぜつ,しょうせつ,しょうぜつ</option>
+    <answer>3</answer>
+    <remarks>This novel was interesting. (小説 = novel)</remarks>
+</question>
+
+<question>
+    <que>まいばん（日記）を書いています。</que>
+    <option>にっき,にちき,につきい,にちきい</option>
+    <answer>1</answer>
+    <remarks>I write a diary every night. (日記 = diary)</remarks>
+</question>
+
+<question>
+    <que>（夕方）、雨がふりました。</que>
+    <option>ゆうほう,ゆうがた,ゆほう,ゆがた</option>
+    <answer>2</answer>
+    <remarks>It rained in the evening. (夕方 = evening)</remarks>
+</question>
+
+<question>
+    <que>もうすぐ（秋）ですね。</que>
+    <option>ふゆ,なつ,はる,あき</option>
+    <answer>4</answer>
+    <remarks>Autumn is coming soon. (秋 = autumn/fall)</remarks>
+</question>
+<!-- もんだい2( )のことばはどうかきますか。1・2・3・4からいちばんいいものをひとつえらんでください。 -->
+<question>
+    <que>すずきさんは (あおい)シャツをきています。</que>
+    <option>青い,黒い,赤い,白い</option>
+    <answer>1</answer>
+    <remarks>Suzuki is wearing a blue shirt. (あおい = blue)</remarks>
+</question>
+
+<question>
+    <que>かいぎの(ばしょ)をおしえてください。</que>
+    <option>揚所,湯所,揚所,場所</option>
+    <answer>4</answer>
+    <remarks>Please tell me the place of the meeting. (場所 = place/location)</remarks>
+</question>
+
+<question>
+    <que>わたしのいえはえきから(あるいて)5分です。</que>
+    <option>走て,走いて,歩て,歩いて</option>
+    <answer>4</answer>
+    <remarks>My house is 5 minutes walk from the station. (歩いて = on foot)</remarks>
+</question>
+
+<question>
+    <que>ちかてつができて(べんり)になりました。</que>
+    <option>便宜,便理,便立,便利</option>
+    <answer>4</answer>
+    <remarks>It became convenient after the subway was built. (便利 = convenient)</remarks>
+</question>
+
+<question>
+    <que>とても(ねすかった)ので、コーヒーを飲みました。</que>
+    <option>睡むかった,睡かった,眠むかった,眠かった</option>
+    <answer>4</answer>
+    <remarks>I was very sleepy, so I drank coffee. (眠かった = was sleepy)</remarks>
+</question>
+
+<question>
+    <que>きょうは ゆき が ふっています。</que>
+    <option>雪,電,雷,雲</option>
+    <answer>1</answer>
+    <remarks>It's snowing today. (雪 = snow)</remarks>
+</question>
+<!-- もんだい3（ ）になにをいれますか。1・2・3・4からいちばんいいものをひとつえらんでください。 -->
+
+<question>
+    <que>けさせんたくしたふくがまだ（ ）いません。</que>
+    <option>ひえて,なおって,ぬれて,かわいて</option>
+    <answer>4</answer>
+    <remarks>The washed clothes are not dry yet. (かわいて = dry)</remarks>
+</question>
+
+<question>
+    <que>スミスさんは いつも（ ）べんきょうしています。</que>
+    <option>だいじに,たいせつに,ねっしんに,まっすぐに</option>
+    <answer>3</answer>
+    <remarks>Smith always studies enthusiastically. (ねっしんに = eagerly)</remarks>
+</question>
+
+<question>
+    <que>わたしはにほんのまんがに（ ）があります。</que>
+    <option>きぶん,きょうみ,こころ,しゅみ</option>
+    <answer>2</answer>
+    <remarks>I am interested in Japanese manga. (きょうみ = interest)</remarks>
+</question>
+
+<question>
+    <que>わたしは テニスの（ ）をよくしりません。</que>
+    <option>アイデイア,ルール,あんない,せつめい</option>
+    <answer>2</answer>
+    <remarks>I don't know much about tennis rules. (ルール = rules)</remarks>
+</question>
+
+<question>
+    <que>りょこうのにもつはもう（ ）できましたか。</que>
+    <option>やくそく,リよう,せわ,ようい</option>
+    <answer>4</answer>
+    <remarks>Are your travel bags already prepared? (ようい = preparation)</remarks>
+</question>
+
+<question>
+    <que>おとうとと（ ）して母にあげるプレゼントをえらびました。</que>
+    <option>さんせい,あいさつ,そうだん,へんじ</option>
+    <answer>3</answer>
+    <remarks>I discussed with my younger brother and chose a gift for mom. (そうだん = consultation)</remarks>
+</question>
+
+<question>
+    <que>このにもつを あそこに（ ）ください。</que>
+    <option>はこんで,つたえて,ひろって,むかえて</option>
+    <answer>1</answer>
+    <remarks>Please carry this luggage over there. (はこんで = carry)</remarks>
+</question>
+
+<question>
+    <que>このきかいはつかいかたをまちがえるととても（ ）です</que>
+    <option>げっこう,きけん,じゆう,あんぜん</option>
+    <answer>2</answer>
+    <remarks>If you use this machine wrong, it's very dangerous. (きけん = dangerous)</remarks>
+</question>
+
+<question>
+    <que>入口の前には車を（ ）ください。</que>
+    <option>やめないで,しめないで,とめないで,きめないで</option>
+    <answer>3</answer>
+    <remarks>Please do not park your car in front of the entrance. (とめないで = don't park)</remarks>
+</question>
+<!-- もんだい4 __のぶんとだいたいおなじいみのぶんがあります。1・2・3・4からいちばんいいものをひとつえらんでください -->
+
+<question>
+    <que>バスがしゅっぱつしました。</que>
+    <option>バスがとまりました。,バスがつきました。,バスが でました。,バスが まがりました。</option>
+    <answer>3</answer>
+    <remarks>The bus departed. (しゅっぱつ = departure)</remarks>
+</question>
+
+<question>
+    <que>もっとていねいにかいてください。</que>
+    <option>もっとおおきく かいてください。,もっときれいにかいてください。,もっとふとくかいてください。,もっとかんたんにかいてください。</option>
+    <answer>2</answer>
+    <remarks>Please write more neatly/politely. (ていねい = neatly)</remarks>
+</question>
+
+<question>
+    <que>あにはえがうまいです。</que>
+    <option>あにはえが じょうずです。,あにはえがきらいです。,あにはえがへたです。,あにはえがすきです。</option>
+    <answer>1</answer>
+    <remarks>My older brother is good at drawing. (うまい = skillful)</remarks>
+</question>
+
+<question>
+    <que>きのうはねぼうしました。</que>
+    <option>きのうはねるのがおそくなってしまいました。,きのうははやくねてしまいました。,きのうはおきるのがおそくなってしまいました。,きのうははやくおきてしまいました。</option>
+    <answer>3</answer>
+    <remarks>I overslept yesterday. (ねぼう = oversleep)</remarks>
+</question>
+
+<question>
+    <que>たなかさんは先生にほめられました。</que>
+    <option>先生はたなかさんに「気をつけてね」と言いました。,先生はたなかさんに「とてもよかったですよ」と言いました。,先生はたなかさんに「ちょっと休みましょう」と言いました。,先生はたなかさんに「たいへんですね」と言いました。</option>
+    <answer>2</answer>
+    <remarks>Tanaka was praised by the teacher. (ほめられました = was praised)</remarks>
+</question>
+<!-- もんだい5つぎのことばのつかいかたでいちばんいいものを1・2・3・4からひとつえらんでください。 -->
+
+<question>
+    <que>るす</que>
+    <option>さいきんいそがしくて、しごとが(るす)になりません。,あのデパートはきょうは(るす)です。,このひこうきには(るす)のせきがありません。,ともだちのいえに行ったら(るす)でした。</option>
+    <answer>4</answer>
+    <remarks>When I went to my friend's house, they were not home. (るす = absent/not home)</remarks>
+</question>
+
+<question>
+    <que>しんせつ</que>
+    <option>このりょうりはからだにどても(しんせつ)ですよ。,コンビニは何でも買えるのでとても(しんせつ)です。,このびょういんのおいしゃさんはとても(しんせつ)ですよ。,わたしの母はにわの花にどても(しんせつ)です。</option>
+    <answer>3</answer>
+    <remarks>The doctor at this hospital is very kind. (しんせつ = kind / friendly)</remarks>
+</question>
+
+<question>
+    <que>にがい</que>
+    <option>かぜをひいたので、こえが(にがい)です。,くらいみちを一人であるくのは(にがい)です。,にもつがおもかったので、うでが(にがい)です。,このくすりはとても(にがい)です。</option>
+    <answer>4</answer>
+    <remarks>This medicine is very bitter. (にがい = bitter taste)</remarks>
+</question>
+
+<question>
+    <que>わる</que>
+    <option>おさらをおとして(わって)しまいました。,しんぶんを(わって)、かばんに入れました。,ようふくを(わって)、母におこられました。,このジャムを三本のびんに(わって)ください。</option>
+    <answer>1</answer>
+    <remarks>I dropped the plate and broke it. (わる = to break)</remarks>
+</question>
+
+<question>
+    <que>ちこく</que>
+    <option>あのとけいはちょっと(ちこく)しています。,じゆぎょうに(ちこく)してすみません。,10時のでんしゃに(ちこく)してしまいました。,れんらくが(ちこく)してすみません。</option>
+    <answer>2</answer>
+    <remarks>Sorry for being late to class. (ちこく = being late / tardiness)</remarks>
+</question>
+<!-- 言 語 知 識 （ 文 法 ） ・ 読 解 -->
+<!-- もんだい1（ ）に何を入れますか。1・2・3・4からいちばんいいものを一つえらんでください。 -->
+<question>
+    <que>わたしの父は中国語も英語（ ）話せます。</que>
+    <option>を,で,も,が</option>
+    <answer>3</answer>
+    <remarks>My father can speak Chinese and English too. (も = also/too)</remarks>
+</question>
+
+<question>
+    <que>これはわたしが米（ ）作ったパンです。</que>
+    <option>に,の,や,で</option>
+    <answer>4</answer>
+    <remarks>This is bread that I made with rice. (で = with / using)</remarks>
+</question>
+
+<question>
+    <que>男の子の顔は父親より母親（ ）にるという話を聞いた。</que>
+    <option>に,へ,も,を</option>
+    <answer>1</answer>
+    <remarks>I heard that a boy's face resembles his mother more than his father. (に = to / like)</remarks>
+</question>
+<question>
+    <que>妹はおしゃべりだ。静かなのは、食事のとき（ ）だ。</que>
+    <option>しか,だけ,は,の</option>
+    <answer>2</answer>
+    <remarks>My sister is talkative. She is quiet only during meals. (だけ = only)</remarks>
+</question>
+
+<question>
+    <que>A「誕生日に田中さんから何をもらったんですか。」 B「田中さん（ ）腕時計をもらいました。」</que>
+    <option>からが,からに,からで,からは</option>
+    <answer>4</answer>
+    <remarks>I received a watch from Tanaka. (からは = from [person])</remarks>
+</question>
+
+<question>
+    <que>（会社で）A「すみません、山田さんはどこですか。」B「山田さんは、会議中ですが、会議は 11時半（ ） 終わると思いますよ。」</que>
+    <option>までは,までには,までも,までにも</option>
+    <answer>2</answer>
+    <remarks>The meeting should finish by 11:30. (までには = by)</remarks>
+</question>
+
+<question>
+    <que>学生「先生、この言葉は（ ）意味ですか。」先生「『やさしい』という意味です。」</que>
+    <option>どうやって,どのぐらい,どういう,どう</option>
+    <answer>3</answer>
+    <remarks>What does this word mean? (どういう = what kind of)</remarks>
+</question>
+
+<question>
+    <que>チャン「古川さん、このじゅぎょうのレポート、おわりましたか。」古川「はい、一週間かかりましたが、きのうの夜、（ ）終わりました。」</que>
+    <option>やっと,ずっと,もっと,きっと</option>
+    <answer>1</answer>
+    <remarks>I finally finished it last night. (やっと = finally)</remarks>
+</question>
+
+<question>
+    <que>A「あしたいっしょにドライブに行きませんか。」B「（ ）、ごめんなさい、あしたはアルバイトがあるんです。」</que>
+    <option>行きたいから,行きたいけれど,行きたいし,行きたくて</option>
+    <answer>2</answer>
+    <remarks>I'd like to go, but I have a part-time job tomorrow. (けれど = but)</remarks>
+</question>
+
+<question>
+    <que>子ども「ねえ、ゲームをしてもいい？」母親「しゅくだいを（ ）あとでね。」</que>
+    <option>していた,している,する,した</option>
+    <answer>4</answer>
+    <remarks>After you finish your homework. (した = after doing)</remarks>
+</question>
+
+<question>
+    <que>このすいかは（ ）すぎて、れいぞうこに入らない。</que>
+    <option>大き,大きい,する,大きく</option>
+    <answer>1</answer>
+    <remarks>This watermelon is too big to fit in the fridge. (大きく = too big)</remarks>
+</question>
+
+<question>
+    <que>A「誕生日おめでとうございます。これ、プレゼントです。どうぞ。」B「ありがとうございます。大切に（ ）。」</que>
+    <option>します,います,なります,あります</option>
+    <answer>1</answer>
+    <remarks>I'll take good care of it. (大切にします = treasure it)</remarks>
+</question>
+
+<question>
+    <que>A「きのうはひっこしを（ ）、どうもありがとうございました。」B「いいえ。どういたしまして。」</que>
+    <option>手伝って,手伝ったので,手伝ってくれて,手伝ったから</option>
+    <answer>3</answer>
+    <remarks>Thank you for helping me move yesterday. (手伝ってくれて = thanks for helping)</remarks>
+</question>
+
+<question>
+    <que>今日、わたしはえんぴつと消しゴムを忘れたので、となりの人に貸して（ ）。</que>
+    <option>やりました,あげました,くれました,もらいました</option>
+    <answer>4</answer>
+    <remarks>My neighbor lent me a pencil and eraser. (もらいました = received the favor)</remarks>
+</question>
+
+<question>
+    <que>わたしの本だなには（ ）読んでいないまんががたくさんあります。</que>
+    <option>買うあいだ,買ったまま,買いそうで,買っている</option>
+    <answer>2</answer>
+    <remarks>There are many manga on my bookshelf that I bought but haven't read yet. (買ったまま = left as is)</remarks>
+</question>
+<!-- もんだい 2 ( ★)に入るものはどれですか。1・2・3・4からいちばんいいものを一つえらんでください -->
+<question>
+    <que>A「コンサートにはもう間に合わないですね。」 B「今すぐ -( )-( )(★)-( )行こう。」</que>
+    <option>タクシーに,タクシーで,間に合うかもしれないから,乗れば</option>
+    <answer>3</answer>
+    <remarks>今すぐ タクシーに 乗れば 間に合うかもしれないから タクシーで行こう。 (If we take a taxi now, we might still make it, so let's go.)</remarks>
+</question>
+<question>
+    <que>山田「田中さん、これから食事でもどうですか。」田中「すみません。ちょうど -( )-( )(★)-( )です。」</que>
+    <option>なん,ところ,食べた,今</option>
+    <answer>2</answer>
+    <remarks>ちょうど 今 食べた ところ なんです。 (I just ate.)</remarks>
+</question>
+
+<question>
+    <que>A「あしたは大事なおきゃくさまに会うから、-( )-( )(★)-( )いけませんよ。」B「わかりました。あしたは、新しいくつをはいて来ます。」</que>
+    <option>くつ,は,そんな,で</option>
+    <answer>4</answer>
+    <remarks>そんな くつ で はいけませんよ。 (You can't go in those shoes.)</remarks>
+</question>
+
+<question>
+    <que>今日は、風が -( )-( )(★)-( )出かけたくない。</que>
+    <option>し,だから,寒そう,強い</option>
+    <answer>3</answer>
+    <remarks>風が 強い から 寒そう だから 出かけたくない。 (The wind is strong, so it looks cold and I don't want to go out.)</remarks>
+</question>
+
+<question>
+    <que>田中「山田さん。東京の大学に行くことを、もうご両親に話しましたか。」山田「いいえ。でも、もし両親に　-( )-( )(★)-( )　つもりです。」</que>
+    <option>反対,する,東京で勉強,されても</option>
+    <answer>3</answer>
+    <remarks>もし両親に 反対 されても 東京で勉強 する つもりです。 (Even if my parents oppose it, I plan to study in Tokyo.)</remarks>
+</question>
+
+<!-- もんだい321/から、25に何を入れますか。文章の意味を考えて、1・2・3・4からいちばんいいものを一つえらんでください。 -->
+<!-- Paragraphs 21 to 25: Choose the best option from 1, 2, 3, or 4 based on the meaning of the sentences. -->
+<!-- 下の文章は「家族」についての作文です。
+ わたしの家には「ポチ」という名前の犬がいます。一か月前に父がもらってきました。わたしたちはポチを家の中で 21( )。
+ポチが好きなところはテレビの前のソファーです。ポチはとてもかわいいのですが、何でもかむので少しこまっています。先週は本当にこまりました。ポチが父のけいたいでんわを22( )からです。
+わたしは兄弟がいないので、ずっとさびしかったです。しかし、ポチをかってからは、23( )。わたしたちはいつもいっしょです。
+ポチはわたしが家を出るとき、いつもげんかんまで出てきます。24( )、元気がないときは、そばに来てくれます。ポチ 25 ( )わたしたちの大切な家族の一員です -->
+<question>
+    <que>21</que>
+    <option>からでしょう,かっています,かっていますか,かっていました</option>
+    <answer>2</answer>
+    <remarks>かっています (We keep / are raising Pochi inside the house)</remarks>
+</question>
+
+<question>
+    <que>22</que>
+    <option>こわしたところだ,こわされている,こわしてしまった,こわされた</option>
+    <answer>3</answer>
+    <remarks>こわしてしまった (Pochi broke/chewed up the phone)</remarks>
+</question>
+
+<question>
+    <que>23</que>
+    <option>さびしくなります,さびしくなくなりました,さびしくなるかもしれません,さびしくなくなったそうです</option>
+    <answer>2</answer>
+    <remarks>さびしくなくなりました (I became no longer lonely)</remarks>
+</question>
+
+<question>
+    <que>24</que>
+    <option>それに,たとえば,だから,それなら</option>
+    <answer>1</answer>
+    <remarks>それに (Moreover / Besides)</remarks>
+</question>
+
+<question>
+    <que>25</que>
+    <option>が,で,を,は</option>
+    <answer>4</answer>
+    <remarks>は (Pochi is an important family member)</remarks>
+</question>
+ <!-- //もんだい4つぎの（1）から（4）の文章を読んで、質問に答えてください。答えは、1・2・3・4からいちばんいいものを一つえらんでください。 -->
+<!-- （1）
+アリさんの机の上に、このメモと本が置いてあります。
+アリさん, アリさんから借りた本を置いておきます。ありがとうございました。アリさんが借りたいと言っていた本も、一緒に置きます。
+重いので、今日は2冊しか持ってきませんでした。来週、ほかの3冊を持ってきます。(石川) -->
+<question>
+    <que>石 川 さ ん は 、 来 週 、 何 を す る と 言 っ て い ま す か 。</que>
+    <option>アリさんに本を2冊返します。,アリさんに本を3冊返します。,アリさんに本を2冊貸します。,アリさんに本を3冊貸します。</option>
+    <answer>4</answer>
+    <remarks>Reference-石川さんは来週、アリさんに本を3冊貸します。</remarks>
+</question>
+<!-- (2)
+公園の入り口に、このお知らせがあります。
+公園で遊ぶときの注意
+◆ 公園が開いている時間は、午前6時から午後9時です。これ以外の時間は入れません。
+◆ 自転車やオートバイは、公園の入り口に止めてください。中に入れてはいけません。
+◆ 公園の中で、次のことをしてはいけません。
+・ボールを使って遊ぶこと
+・たばこを吸うこと-->
+
+<question>
+    <que>このお知らせから、公園についてわかることは何ですか。</que>
+    <option>午後10時に公園に入ってもいいです。,入り口にオートバイを止めてはいけません。,サッカーの練習をしてはいけません。,たばこを吸ってもいいです。</option>
+    <answer>3</answer>
+    <remarks>サッカーの練習をしてはいけません。</remarks>
+</question>
+<!-- (3) 
+これは、山田先生からトムさんに届いたメールです。
+(トムさん)
+明日（30日）の約束ですが、会議に出なければならなくなりました。
+それで、すみませんが、約束を31日の午後3時に変えられませんか。
+トムさんの都合がよければ、オフィスで待っています。
+このメールを読んだら、返事をください。
+
+(山田)
+-->
+<question>
+    <que>トムさんは、山田先生に何を知らせなければなりませんか。</que>
+    <option>約束を明日に変えられるかどうか,約束をあさってに変えられるかどうか,トムさんの明日の午後の都合,トムさんのあさっての午前の都合</option>
+    <answer>2</answer>
+    <remarks>Whether he can change the appointment to the day after tomorrow (31st) at 3 PM.</remarks>
+</question>
+<!-- (4)
+石田さんは、川下図書館で働いています。本についての相談を受けたり、どこにどの本を置くのがいいか考えたりします。
+それから、図書館の新聞にいい本の紹介文を書いたり、小さな子どもたちに絵本を読んだりします。
+-->
+
+<question>
+    <que>石田さんの仕事ではないものはどれですか。</que>
+    <option>相談に来た人に本について紹介します。,本を置く場所はどこがいいか、考えます。,新聞にのっている、よい本の紹介文を探します。,
+    小さな子どもたちに、いろいろな絵本を読みます。</option>
+    <answer>3</answer>
+    <remarks>Searching for good book introductions that are already in the newspaper.
+     (This is NOT her job. She writes them herself.)</remarks>
+</question>
+<!-- もんだい5つぎの文章を読んで、質問に答えてください。答えは、1・2・3・4からいちばんいいものを一つえらんでください。 -->
+<!-- 今年の度、わたしは家族で山の中にある①小テルに泊まりました。
+取からホテルの近くのバス停まで、バスで2時間以上かかりました。バス停からホテルまでは、細い道を30分近く歩きました。水テルは小さくで古かったですが、中はどでもきれいでした。
+ホテルに着くと、息子は「テレビが見たい。」「ダームがしたい。」と言いました。しかし、このポテルにはどちらもありません。それから、冷蔵中もエアコンもありません。このホテルは便利ではありませんでしたが、山や湖でいろいろなことができました。
+部屋に荷物を置いて窓を開けると、初から涼しい風が入ってきました。少し休んでから、まだ明るかったので、散歩に出かけました。空気※おいしくを、無色も美しかったです。夜は、星がとてもきれいでした。ホテルにいる間は毎日、みんなで散歩をしたり、湖で泳いだり、虫をとったり、昼寝をしたりしました。
+ホテルには1週間いました、わたしたちは「楽しかったね。②こんな生活もたまにはいいね。」と話しなから、家に帰りました。 -->
 
     <question>
-        <que>this is the question</que>
-        <option>1,2,3,4</option>
-        <answer>1</answer>
-        <remarks>test</remarks>
-    </question>
-
-    <question>
-        <que>this is the question</que>
-        <option>1,2,3,4</option>
+        <que>どんな①ホテルに泊まりましたか。</que>
+        <option>山の中の大きなホテル,古いが、中はきれいなホテル,テレビやゲームが楽しめるホテル,いろいろなものがあって、便利なホテル</option>
         <answer>2</answer>
-        <remarks>test</remarks>
+        <remarks>古いが中はきれいなホテル</remarks>
     </question>
 
     <question>
-        <que>this is the question</que>
-        <option>1,2,3,4</option>
-        <answer>3</answer>
-        <remarks>test</remarks>
+        <que>駅からホテルまでどうやって行きましたか。</que>
+        <option>駅から30分バスに乗ってバス停から2時間以上歩きました,駅から30分歩いてバスに2時間以上乗りました,駅から2時間近くバスに乗ってバス停から30分以上歩きました,駅から2時間以上バスに乗ってバス停から30分近く歩きました</option>
+        <answer>4</answer>
+        <remarks>バス2時間以上＋徒歩30分</remarks>
     </question>
 
+    <question>
+        <que>ホテルに着いてから、何をしましたか。</que>
+        <option>すぐに湖に行きました,夜までずっと休みました,テレビを見てから外へ出ました,少し休んでから散歩に行きました</option>
+        <answer>4</answer>
+        <remarks>部屋で少し休んでから散歩</remarks>
+    </question>
+
+    <question>
+        <que>②こんな生活とありますが、どんな生活ですか。</que>
+        <option>山で遊んだり昼寝をしたりする生活,ゲームをしたり虫をとったりする生活,散歩やテレビを見る生活,おいしいものを食べて何もしない生活</option>
+        <answer>1</answer>
+        <remarks>自然の中で遊んだり休んだりする生活</remarks>
+    </question>
+<!-- もんだい6右のページの「スポーツ教室」のお知らせを見て、下の質問に答えてください。答えは、1・2・3・4から いちばんいいものを一つえらんでください。 -->
+
+    <!-- 
+    あおぞら一日スポーツ教室/5月29日（日）10:00～17:00/場所あおぞら酒動様
+    「あおぞら一日スポーツ数室」では、いろいろなスポーツのルールや、やり方を先生が教えます。みんなでスポーツを楽しみましょう。
+    
+    スポーツ-クジョギング /時間-10:00 ~ 12:00 /お金-ただ
+    スポーツ-自転車 / 時間-13:30 ~ 17:00 / 場所-第！運動器 / お金-ただ※
+    スポーツ-水泳 / 時間-10:00 ~ 17:00 / 場所-プール / お金-300円
+    スポーツ-サッカー / 時間-10:00 ~ 17:00 / 場所-第2運動場 / お金-100円
+    スポーツ-バスケットボール / 時間-10:00 ~ 17:00 / 場所-体育館 / お金-100円
+    ※注意 自転車を借りる人は 200円かかります。
+    ①ジョギング、自転車、水泳好きな時間に始めることができます。
+    ②サッカー、バスケットボール
+    午前：ルールや、やり方を先生が教えます。
+    サッカーは第2運動場、バスケットボールは体育館に、10:00までに来てください。
+    午後：グループで試合をします。
+    受付に13:00までに来てください。
+    初めてサッカーやバスケットボールをする人は、ぜひ午前の教室から来てください。
+    あおぞら運勤場/電話：012-345-6789
+    -->
+    <question>
+        <que>自転車を借りて乗りたい人は、いくら払わなければなりませんか。</que>
+        <option>ただ,100円,200円,300円</option>
+        <answer>3</answer>
+        <remarks>200円かかります</remarks>
+    </question>
+
+    <question>
+        <que>バスケットボールのルールや、やり方を習ってから試合に出たい人は、まずどうしなければなりませんか。</que>
+        <option>10:00までに受付に行く,10:00までに体育館に行く,13:00までに受付に行く,13:00までに体育館に行く</option>
+        <answer>2</answer>
+        <remarks>10:00までに体育館に行く</remarks>
+    </question>
+<!-- Listing questions  -->
+
+<!-- last edited: 2024-06-05 15:30:00 -->
 </questions>
+
+ 
